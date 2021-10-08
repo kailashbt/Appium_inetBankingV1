@@ -1,0 +1,15 @@
+com\testautomation\Utility\XLUtils.class
+com\testautomation\mobile\pages\AddCustomerPage.class
+com\testautomation\Utility\BrowserUtility.class
+com\testautomation\mobile\pages\BasePage.class
+com\testautomation\mobile\scripts\TC_LoginDDT_002.class
+com\testautomation\mobile\pages\PageObjectPage1.class
+com\testautomation\mobile\scripts\TC_LoginTest_001.class
+com\testautomation\mobile\scripts\TC_AddCustomerTest_003.class
+com\testautomation\Utility\ReadConfig.class
+com\testautomation\mobile\pages\LoginPage.class
+com\testautomation\mobile\scripts\ExtentReports.class
+com\testautomation\mobile\pages\PageObjectPage2.class
+com\testautomation\mobile\pages\BaseClass.class
+com\testautomation\mobile\scripts\PageObjectTestCase.class
+com\testautomation\mobile\pages\PageObjectPage3.class

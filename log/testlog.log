@@ -1,0 +1,54 @@
+2021-10-06 21:25:13,361 - ebanking - INFO -Entered password
+2021-10-06 21:25:20,019 - ebanking - INFO -Clicked on login button
+2021-10-06 21:25:36,704 - ebanking - INFO -Completed testcase execution
+2021-10-06 21:54:54,866 - inetBankingLogger - INFO -Entered password
+2021-10-06 21:55:01,641 - inetBankingLogger - INFO -Clicked on login button
+2021-10-06 21:55:17,835 - inetBankingLogger - INFO -Completed testcase execution
+2021-10-06 21:59:10,192 - inetBankingLogger - INFO -Entered password
+2021-10-06 21:59:16,431 - inetBankingLogger - INFO -Clicked on login button
+2021-10-06 21:59:34,933 - inetBankingLogger - INFO -Completed testcase execution
+2021-10-07 11:24:16,880 - inetBankingLogger - INFO -Entered password
+2021-10-07 11:24:22,984 - inetBankingLogger - INFO -Clicked on login button
+2021-10-07 11:24:39,931 - inetBankingLogger - INFO -Completed testcase execution
+2021-10-07 11:27:17,470 - inetBankingLogger - INFO -Entered username
+2021-10-07 11:27:19,214 - inetBankingLogger - INFO -Entered password
+2021-10-07 11:27:23,369 - inetBankingLogger - INFO -Clicked on login button
+2021-10-07 11:27:42,115 - inetBankingLogger - INFO -Completed testcase execution
+2021-10-07 11:49:04,071 - inetBankingLogger - INFO -Entered username
+2021-10-07 11:49:06,025 - inetBankingLogger - INFO -Entered password
+2021-10-07 11:49:10,298 - inetBankingLogger - INFO -Clicked on login button
+2021-10-07 11:49:30,286 - inetBankingLogger - INFO -Completed testcase execution
+2021-10-07 11:58:39,818 - inetBankingLogger - INFO -Entered username
+2021-10-07 11:58:41,511 - inetBankingLogger - INFO -Entered password
+2021-10-07 11:58:45,768 - inetBankingLogger - INFO -Clicked on login button
+2021-10-07 11:59:01,353 - inetBankingLogger - INFO -Completed testcase execution
+2021-10-07 13:22:40,050 - ebanking - INFO -Entered username
+2021-10-07 13:22:46,795 - ebanking - INFO -Entered username
+2021-10-07 13:30:41,098 - ebanking - INFO -Entered username
+2021-10-07 13:30:43,097 - ebanking - INFO -Entered password
+2021-10-07 13:30:44,516 - ebanking - INFO -Clicked on login button
+2021-10-07 13:31:03,650 - ebanking - INFO -Test completed
+2021-10-07 14:17:14,380 - ebanking - INFO -Entered username
+2021-10-07 14:17:16,345 - ebanking - INFO -Entered password
+2021-10-07 14:17:17,437 - ebanking - INFO -Clicked on login button
+2021-10-07 14:17:36,699 - ebanking - INFO -Test completed
+2021-10-07 16:53:58,534 - ebanking - INFO -Entered username
+2021-10-07 16:54:00,363 - ebanking - INFO -Entered password
+2021-10-07 16:54:01,306 - ebanking - INFO -Clicked on login button
+2021-10-07 16:54:19,489 - ebanking - INFO -Test completed
+2021-10-08 11:12:08,790 - ebanking - INFO -Entered username
+2021-10-08 11:12:10,548 - ebanking - INFO -Entered password
+2021-10-08 11:12:11,634 - ebanking - INFO -Clicked on login button
+2021-10-08 11:12:29,982 - ebanking - INFO -Test completed
+2021-10-08 11:26:54,825 - ebanking - INFO -Entered username
+2021-10-08 11:26:56,548 - ebanking - INFO -Entered password
+2021-10-08 11:26:57,877 - ebanking - INFO -Clicked on login button
+2021-10-08 11:27:16,335 - ebanking - INFO -Test completed
+2021-10-08 14:52:05,873 - ebanking - INFO -Entered username
+2021-10-08 14:52:07,671 - ebanking - INFO -Entered password
+2021-10-08 14:52:08,647 - ebanking - INFO -Clicked on login button
+2021-10-08 14:52:26,873 - ebanking - INFO -Test completed
+2021-10-08 15:23:39,536 - ebanking - INFO -Entered username
+2021-10-08 15:23:42,924 - ebanking - INFO -Entered password
+2021-10-08 15:23:45,415 - ebanking - INFO -Clicked on login button
+2021-10-08 15:24:04,972 - ebanking - INFO -Test completed
