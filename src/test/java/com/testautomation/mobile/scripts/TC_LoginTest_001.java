@@ -5,10 +5,7 @@ import org.testng.annotations.Test;
 
 import com.testautomation.Utility.BrowserUtility;
 import com.testautomation.mobile.pages.BaseClass;
-import com.testautomation.mobile.pages.BasePage;
 import com.testautomation.mobile.pages.LoginPage;
-import com.testautomation.mobile.pages.PageObjectPage3;
-
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.android.AndroidDriver;

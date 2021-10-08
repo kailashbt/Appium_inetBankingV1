@@ -13,7 +13,7 @@ import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.android.AndroidElement;
 
-public class AddCustomerPage extends BasePage {
+public class AddCustomerPage extends BaseClass {
 
 	
 	public AddCustomerPage (AppiumDriver<MobileElement> driver)

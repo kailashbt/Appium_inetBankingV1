@@ -41,15 +41,13 @@ public class LoginPage extends BaseClass{
 		Thread.sleep(1000);
 		txtPassword.sendKeys(Keys.TAB);
 	}
-	
-	//@FindBy(xpath="//input[@type='submit']")
+		
 	@FindBy(name="btnLogin")
 	@CacheLookup
 	 AndroidElement Loginbtn;
 	
 	public void Loginbtn_Click() throws InterruptedException 
-	{
-		//Loginbtn.click();
+	{	
 		Loginbtn.sendKeys(Keys.ENTER);		
 	}
 	

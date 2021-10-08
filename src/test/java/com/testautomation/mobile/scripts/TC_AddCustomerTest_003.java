@@ -22,41 +22,32 @@ import io.appium.java_client.MobileElement;
 
 public class TC_AddCustomerTest_003{
 
-//Logger logger;
-
 	@Test
 	public void addNewCustomer() throws InterruptedException, IOException
 	{
 		AppiumDriver<MobileElement> driver =  BrowserUtility.getAndroidDriver();
 		
-		//logger = Logger.getLogger("inetBankingLogger");
-		//PropertyConfigurator.configure("Log4j.properties");
-				
 		BaseClass bc = new BaseClass(driver);
 		try
 		{
-		Thread.sleep(3000);
-		LoginPage lp=new LoginPage(driver);
+		  Thread.sleep(3000);
+		  LoginPage lp=new LoginPage(driver);
 		
-		String bs1= BaseClass.baseURL;
-		 		
-		 System.out.println(bs1);
-		 driver.get(bs1);								 		
-		 String user1 = BaseClass.username;
-		 
-		 String pwd1 = BaseClass.password;
-		 			 
-		 System.out.println(user1);
-		 System.out.println(pwd1);
-		 		 
-		lp.setUserName(user1);
-		bc.logger().info("Entered username");		
-		lp.setPassword(pwd1);
-		bc.logger().info("Entered password");
-		lp.Loginbtn_Click();
-		bc.logger().info("Clicked on login button");
-		Thread.sleep(3000);
-		//logger.info("Clicked on login button");
+		  String bs1= BaseClass.baseURL;		 		
+		  System.out.println(bs1);
+		  driver.get(bs1);								 		
+		  String user1 = BaseClass.username;		 
+		  String pwd1 = BaseClass.password;		 			
+		  System.out.println(user1);
+		  System.out.println(pwd1);		 		 
+		  lp.setUserName(user1);
+		  bc.logger().info("Entered username");		
+		  lp.setPassword(pwd1);
+		  bc.logger().info("Entered password");
+		  lp.Loginbtn_Click();
+		  bc.logger().info("Clicked on login button");
+		  Thread.sleep(3000);
+	
 	} catch (InterruptedException e) {			
 		e.printStackTrace();
 	}
@@ -81,20 +72,18 @@ public class TC_AddCustomerTest_003{
 		Thread.sleep(3000);
 		bc.logger().info("Test completed");
 				
-//		boolean res=driver.getPageSource().contains("Customer Registered Successfully!!!");
-//		
-//		if (res==true)
-//		{
-//			Assert.assertTrue(true);			
-//		}
-//		else
-//		{
-//							
-//			//captureScreen(driver,"addNewCustomer");
-//			
-//			Assert.assertTrue(false);
-//		    //logger.error("Unable to enter all fileds in new cutomer page");
-//		}
+		boolean res=driver.getPageSource().contains("Customer Registered Successfully!!!");
+		
+		if (res==true)
+		{
+			Assert.assertTrue(true);			
+		}
+		else
+		{							
+			//captureScreen(driver,"addNewCustomer");			
+			Assert.assertTrue(false);
+			bc.logger().info("Unable to enter all fileds in new cutomer page");		  
+		}
   }
 		
 	public String 	randomestring()
